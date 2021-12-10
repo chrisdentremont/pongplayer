@@ -1,4 +1,4 @@
-# Pong Lab: ML Player
+# Pong Machine Learning Player
 
 ## Introduction
 Simple linear regression model that learns to play Pong.
